@@ -18,12 +18,24 @@ já a biblioteca não fornece uma estrutura para resolver o problema, mas sim um
 
 - Como estilizar um componente no React Native? 
 
-- O estilo no React Native é igual ao CSS? Tenha todas as propriades? Não, ele é inspirado no CSS, mas não tem todas as propriades.
+- O estilo  CSS in JSno React Native é igual ao CSS Web? Tenho todas as propriades? Não, ele é inspirado no CSS, mas não tem todas as propriades.
+
+- Em quais pacotes encontro um componente de Imagem? Qual melhor para usarmos atualmente? React native e expo-image. expo-image
+
+- Oque são propriedades de componentes? 
+
+Extra
+
+- Revisão de variaveis e objetos
+    - desestruturação de objetos
 
 ## Comandos Uteis
 
 // como instala o React Native com Expo?
 npx create-expo-app@latest --template
 
+// npm run web
+
 
 ### Expo
+
